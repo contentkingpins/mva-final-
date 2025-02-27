@@ -40,5 +40,9 @@
   "overrides": {
     "glob": "10.3.10",
     "rimraf": "5.0.5"
+  },
+  "resolutions": {
+    "@humanwhocodes/object-schema": "latest",
+    "@humanwhocodes/config-array": "latest"
   }
 }
