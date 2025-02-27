@@ -4,7 +4,6 @@ frontend:
     preBuild:
       commands:
         - npm install --legacy-peer-deps
-        - npm ls glob rimraf || true
     build:
       commands:
         - NODE_ENV=production npm run build
