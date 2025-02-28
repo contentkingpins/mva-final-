@@ -1,3 +1,5 @@
+"use client"
+
 import { motion } from 'framer-motion'
 import ClickToCallButton from '@/components/ui/ClickToCallButton'
 
